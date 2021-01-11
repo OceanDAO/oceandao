@@ -1,1 +1,2 @@
-**Please go to [OceanDAO wiki](https://github.com/oceanprotocol/oceandao/wiki)**.
+## [OceanDAO Wiki](https://github.com/oceanprotocol/oceandao/wiki) 
+(at `oceanprotocol` organization)
